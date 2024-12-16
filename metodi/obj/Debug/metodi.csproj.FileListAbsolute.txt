@@ -1,0 +1,7 @@
+C:\Users\1409-10\Desktop\Станислав 9а\metodi\bin\Debug\metodi.exe.config
+C:\Users\1409-10\Desktop\Станислав 9а\metodi\bin\Debug\metodi.exe
+C:\Users\1409-10\Desktop\Станислав 9а\metodi\bin\Debug\metodi.pdb
+C:\Users\1409-10\Desktop\Станислав 9а\metodi\obj\Debug\metodi.csproj.AssemblyReference.cache
+C:\Users\1409-10\Desktop\Станислав 9а\metodi\obj\Debug\metodi.csproj.CoreCompileInputs.cache
+C:\Users\1409-10\Desktop\Станислав 9а\metodi\obj\Debug\metodi.exe
+C:\Users\1409-10\Desktop\Станислав 9а\metodi\obj\Debug\metodi.pdb
