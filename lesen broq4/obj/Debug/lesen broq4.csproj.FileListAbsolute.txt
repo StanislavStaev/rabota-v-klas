@@ -1,0 +1,7 @@
+C:\Users\1409-11\source\repos\lesen broq4\bin\Debug\lesen broq4.exe.config
+C:\Users\1409-11\source\repos\lesen broq4\bin\Debug\lesen broq4.exe
+C:\Users\1409-11\source\repos\lesen broq4\bin\Debug\lesen broq4.pdb
+C:\Users\1409-11\source\repos\lesen broq4\obj\Debug\lesen broq4.csproj.AssemblyReference.cache
+C:\Users\1409-11\source\repos\lesen broq4\obj\Debug\lesen broq4.csproj.CoreCompileInputs.cache
+C:\Users\1409-11\source\repos\lesen broq4\obj\Debug\lesen broq4.exe
+C:\Users\1409-11\source\repos\lesen broq4\obj\Debug\lesen broq4.pdb
