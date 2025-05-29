@@ -1,0 +1,7 @@
+C:\Users\1409-11\Desktop\Stanislav9a\purvi niz\bin\Debug\purvi niz.exe.config
+C:\Users\1409-11\Desktop\Stanislav9a\purvi niz\bin\Debug\purvi niz.exe
+C:\Users\1409-11\Desktop\Stanislav9a\purvi niz\bin\Debug\purvi niz.pdb
+C:\Users\1409-11\Desktop\Stanislav9a\purvi niz\obj\Debug\purvi niz.csproj.AssemblyReference.cache
+C:\Users\1409-11\Desktop\Stanislav9a\purvi niz\obj\Debug\purvi niz.csproj.CoreCompileInputs.cache
+C:\Users\1409-11\Desktop\Stanislav9a\purvi niz\obj\Debug\purvi niz.exe
+C:\Users\1409-11\Desktop\Stanislav9a\purvi niz\obj\Debug\purvi niz.pdb
