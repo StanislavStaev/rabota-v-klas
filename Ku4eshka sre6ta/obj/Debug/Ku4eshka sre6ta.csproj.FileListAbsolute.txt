@@ -1,0 +1,7 @@
+C:\Users\1409-11\Desktop\Stanislav9a\Ku4eshka sre6ta\bin\Debug\Ku4eshka sre6ta.exe.config
+C:\Users\1409-11\Desktop\Stanislav9a\Ku4eshka sre6ta\bin\Debug\Ku4eshka sre6ta.exe
+C:\Users\1409-11\Desktop\Stanislav9a\Ku4eshka sre6ta\bin\Debug\Ku4eshka sre6ta.pdb
+C:\Users\1409-11\Desktop\Stanislav9a\Ku4eshka sre6ta\obj\Debug\Ku4eshka sre6ta.csproj.AssemblyReference.cache
+C:\Users\1409-11\Desktop\Stanislav9a\Ku4eshka sre6ta\obj\Debug\Ku4eshka sre6ta.csproj.CoreCompileInputs.cache
+C:\Users\1409-11\Desktop\Stanislav9a\Ku4eshka sre6ta\obj\Debug\Ku4eshka sre6ta.exe
+C:\Users\1409-11\Desktop\Stanislav9a\Ku4eshka sre6ta\obj\Debug\Ku4eshka sre6ta.pdb
