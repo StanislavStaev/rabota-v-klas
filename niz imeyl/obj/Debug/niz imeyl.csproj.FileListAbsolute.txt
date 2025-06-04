@@ -1,0 +1,7 @@
+C:\Users\1409-11\Desktop\Stanislav9a\niz imeyl\obj\Debug\niz imeyl.csproj.AssemblyReference.cache
+C:\Users\1409-11\Desktop\Stanislav9a\niz imeyl\obj\Debug\niz imeyl.csproj.CoreCompileInputs.cache
+C:\Users\1409-11\Desktop\Stanislav9a\niz imeyl\bin\Debug\niz imeyl.exe.config
+C:\Users\1409-11\Desktop\Stanislav9a\niz imeyl\bin\Debug\niz imeyl.exe
+C:\Users\1409-11\Desktop\Stanislav9a\niz imeyl\bin\Debug\niz imeyl.pdb
+C:\Users\1409-11\Desktop\Stanislav9a\niz imeyl\obj\Debug\niz imeyl.exe
+C:\Users\1409-11\Desktop\Stanislav9a\niz imeyl\obj\Debug\niz imeyl.pdb
